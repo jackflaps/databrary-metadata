@@ -14,4 +14,4 @@ Information about mapping to published open schemas.
 
 ## Documents
 
-- [NIH CDE and Databrary 1.0/PLAY Projecdt](nih-cde.md)
+- [NIH CDE and Databrary 1.0/PLAY Project](nih-cde.md)
