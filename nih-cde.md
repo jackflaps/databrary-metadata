@@ -4,6 +4,8 @@
 
 ## Elements used in Databrary 1.0
 
+The following represents work by Rick Gilmore to try to map elements used in the Databrary 1.0 "spreadsheet" to NIH CDE.
+
 - [Age](https://cde.nlm.nih.gov/deView?tinyId=XkjgY8cihig)
 - [Birth date](https://cde.nlm.nih.gov/deView?tinyId=X1mJv5j3jx)
 - [Ethnicity OMB.1997](https://cde.nlm.nih.gov/deView?tinyId=myZHtS5bSU)
