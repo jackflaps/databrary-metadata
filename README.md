@@ -18,14 +18,15 @@ Information about mapping to published open schemas and ontologies.
 ## Documents
 
 - [NIH CDE and Databrary 1.0/PLAY Project](nih-cde.md).
-- [Google sheet](https://docs.google.com/spreadsheets/d/1-WbbMmRPxhszbBBA4qLrlyBBq4uGv_aWtf41-KFd32k/edit#gid=1060571672) mapping existing Databrary data elements and API calls to schema.org.
+- [Google sheet](https://docs.google.com/spreadsheets/d/1-WbbMmRPxhszbBBA4qLrlyBBq4uGv_aWtf41-KFd32k/edit#gid=1060571672) mapping existing most Databrary data elements and API calls to schema.org and datacite.org.
 - Current Databrary 1.0 schema specifications
-    - [Volume](https://github.com/databrary/curation/blob/master/spec/volume.json) (will be project in Databrary 2.0) specification.
+    - [Volume](https://github.com/databrary/curation/blob/master/spec/volume.json) (will be called `project` in Databrary 2.0) specification.
     - [Metadata](https://github.com/databrary/curation/blob/master/spec/metadata.md) requirements for automated (not self-curated) ingest of data into Databrary 1.0.
 
-## Existing tools
+## Tools
 
 - [`databraryapi`](https://github.com/PLAY-behaviorome/databraryapi) R package.
+    - There is a [Python version](https://github.com/PLAY-behaviorome/databrarypy) that is less well developed.
 - Internal [Databrary reports](https://gilmore-lab.github.io/databrary-analytics/) that use the `databraryapi` package.
     - [Which volumes/projects](https://gilmore-lab.github.io/databrary-analytics/shared-volumes-sessions/shared-volumes-sessions.html) have shared sessions and of what type (overview only or full volume)?
     - [What user-defined tags or keywords](https://gilmore-lab.github.io/databrary-analytics/tags-keywords/tags-keywords-report.html) have been added to volumes/projects?
