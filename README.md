@@ -11,6 +11,8 @@ Information about mapping to published open schemas and ontologies.
     - [JSON-LD](https://json-ld.org/). High priority.
     - [DataTags](http://datatags.org/) project at [Harvard](https://privacytools.seas.harvard.edu/datatags) project. Moderate priority.
     - [Cognitive Atlas](https://www.cognitiveatlas.org/). Low priority.
+    - [CSV Schema Language](https://digital-preservation.github.io/csv-schema/csv-schema-1.2.html).
+    - [Brain Imaging Data Structure (BIDS)](https://bids-specification.readthedocs.io/en/stable/), especially the [Hierarchical Event Descriptors (HED)](https://bids-specification.readthedocs.io/en/stable/99-appendices/03-hed.html) specification.
 2. Support users who want to provide data compatible with these standards to do so in straightforward ways that enable self-curation.
 3. Support linking data elements to specific, version-controlled, data schemas.
 4. Eventually, support linking data sets or projects to concepts, tasks, disorders, or theories defined on [Cognitive Atlas](https://www.cognitiveatlas.org/) using the [Cognitive Atlas API](https://www.cognitiveatlas.org/api).
@@ -27,7 +29,7 @@ Information about mapping to published open schemas and ontologies.
 
 - [`databraryapi`](https://github.com/PLAY-behaviorome/databraryapi) R package.
     - There is a [Python version](https://github.com/PLAY-behaviorome/databrarypy) that is less well developed.
-- Internal [Databrary reports](https://gilmore-lab.github.io/databrary-analytics/) that use the `databraryapi` package.
+- Internal [Databrary reports](https://gilmore-lab.github.io/databrary-analytics/) that use the `databraryapi` R package.
     - [Which volumes/projects](https://gilmore-lab.github.io/databrary-analytics/shared-volumes-sessions/shared-volumes-sessions.html) have shared sessions and of what type (overview only or full volume)?
     - [What user-defined tags or keywords](https://gilmore-lab.github.io/databrary-analytics/tags-keywords/tags-keywords-report.html) have been added to volumes/projects?
     - What [types of files](https://gilmore-lab.github.io/databrary-analytics/volumes-with-videos-annotations/assets-stats.html) have been shared?
