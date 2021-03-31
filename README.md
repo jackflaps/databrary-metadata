@@ -13,6 +13,7 @@ Information about mapping to published open schemas and ontologies.
     - [Cognitive Atlas](https://www.cognitiveatlas.org/). Low priority.
     - [CSV Schema Language](https://digital-preservation.github.io/csv-schema/csv-schema-1.2.html).
     - [Brain Imaging Data Structure (BIDS)](https://bids-specification.readthedocs.io/en/stable/), especially the [Hierarchical Event Descriptors (HED)](https://bids-specification.readthedocs.io/en/stable/99-appendices/03-hed.html) specification.
+        - See Databrary-related example [here](bids-heds.md).
 2. Support users who want to provide data compatible with these standards to do so in straightforward ways that enable self-curation.
 3. Support linking data elements to specific, version-controlled, data schemas.
 4. Eventually, support linking data sets or projects to concepts, tasks, disorders, or theories defined on [Cognitive Atlas](https://www.cognitiveatlas.org/) using the [Cognitive Atlas API](https://www.cognitiveatlas.org/api).
@@ -24,6 +25,7 @@ Information about mapping to published open schemas and ontologies.
 - Current Databrary 1.0 schema specifications
     - [Volume](https://github.com/databrary/curation/blob/master/spec/volume.json) (will be called `project` in Databrary 2.0) specification.
     - [Metadata](https://github.com/databrary/curation/blob/master/spec/metadata.md) requirements for automated (not self-curated) ingest of data into Databrary 1.0.
+- Sketch of how a [dataset from PLAY ](bids-heds.md) might be structured using the Brain Imaging Data Structure (BIDS) format.
 
 ## Tools
 

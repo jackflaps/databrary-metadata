@@ -1,0 +1,23 @@
+{
+  "name": "Play & Learning Across a Year (PLAY) 2021-05-10 release",
+  "BIDSVersion": "1.5.0",
+  "HEDVersion": "7.1.1",
+  "DatasetType": "raw",
+  "License": "Databrary",
+  "Authors": [
+    "Karen E. Adolph",
+    "Catherine Tamis-LeMonda",
+    "Rick O. Gilmore"
+  ],
+  "HowToAcknowledge": "https://nyu.databrary.org/volume/1280",
+  "Funding": [
+    "National Institute of Child Health & Human Development"
+  ],
+  "EthicsApprovals": [
+    ""
+  ],
+  "ReferencesAndLinks": [
+    "https://play-project.org"
+  ],
+  "DatasetDOI": "doi:10.0.2.3/dfjj.10"
+}
