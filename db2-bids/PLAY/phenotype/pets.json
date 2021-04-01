@@ -1,0 +1,8 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Pets survey",
+  },
+  "n_pets": {
+    "Description": "Number of pets in the home",
+  }
+}

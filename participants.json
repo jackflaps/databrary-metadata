@@ -1,0 +1,48 @@
+{
+    "sex": {
+        "Description": "sex of the participant as reported by the participant's parent",
+        "Levels": {
+            "M": "male",
+            "F": "female"
+        }
+    },
+    "age": {
+        "Description": "age of the participant",
+        "Units": "months"
+    },
+    "PLAY_site_id": {
+        "Description": "participant identifier used by the data collection site"
+    },
+    "test_date": {
+      "Description": "date of test session"
+    },
+    "birth_date": {
+      "Description": "date of child's birth"
+    },
+    "race": {
+      "Description": "race of child as reported by parent"
+      "Levels" : {
+        "White" : "White",
+        "Black" : "Black",
+        "Asian" : "Asian",
+        "More than one" : "Multiple"
+      }
+    },
+    "ethnicity": {
+      "Description": "ethnicity reported by the parent"
+      "Levels" : {
+        "Hispanic or Latino": "Hisp",
+        "Not Hispanic or Latino" : "Not_hisp"
+      }    
+    },
+    "release" : {
+        "Description": "data release level agreed to by participant parent",
+        "Levels": {
+        "Unknown": "Unknown",
+        "Private": "Private",
+        "Authorized Users": "Databrary",
+        "Learning Audiences": "Learning_audiences",
+        "Public": "Public"
+        }
+    }
+}

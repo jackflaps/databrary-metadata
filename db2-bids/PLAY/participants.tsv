@@ -1,3 +1,3 @@
-participant_id	sex	age	subject_id
-sub-001	F	12	001
-sub-002	M	18	002
+participant_id	sex	age	PLAY_site_id	test_date	birth_date	race	ethnicity	release
+sub-001	F	12	PLAY_NYUNI_001 2017-07-17	2019-06-19 White Not_hisp Private
+sub-002	M	18	PLAY_NYUNI_002 2018-06-11	2019-09-15	Black	Hisp	Databrary
