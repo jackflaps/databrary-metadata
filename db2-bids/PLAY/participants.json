@@ -25,14 +25,14 @@
         "White" : "White",
         "Black" : "Black",
         "Asian" : "Asian",
-        "More than one" : "Multiple"
+        "Multiple" : "More than one race."
       }
     },
     "ethnicity": {
       "Description": "ethnicity reported by the parent"
       "Levels" : {
-        "Hispanic or Latino": "Hisp",
-        "Not Hispanic or Latino" : "Not_hisp"
+        "Hisp": "Hispanic or Latino",
+        "Not_hisp" : "Not Hispanic or Latino"
       }    
     },
     "release" : {
@@ -40,8 +40,8 @@
         "Levels": {
         "Unknown": "Unknown",
         "Private": "Private",
-        "Authorized Users": "Databrary",
-        "Learning Audiences": "Learning_audiences",
+        "Databrary": "Databrary",
+        "Learning_audiences": "Learning audiences",
         "Public": "Public"
         }
     }
