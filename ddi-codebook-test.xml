@@ -1,0 +1,57 @@
+<codeBook  xmlns="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd">
+  <!-- for this example I used https://nyu.databrary.org/volume/23 -->
+  <docDscr>
+    <!-- docDscr describes the DDI document itself -->
+    <citation>
+      <titlStmt>
+        <!-- maps to citation/title in the Databrary 1.0 spec -->
+        <title>An analysis of optic flow observed by infants during natural activities</title>
+        <IDNo agency="doi">10.17910/B7QP46</IDNo>
+      </titlStmt>
+      <respStmt>
+        <AuthEnty affiliation="Penn State University">Penn State University</AuthEnty>
+        <othId role="editor">
+          <p>Rick Gilmore</p>
+        </othId>
+        <othId role="entry">
+          <p>person responsible for adding the volume to Databrary</p>
+        </othId>
+      </respStmt>
+      <prodStmt>
+        <producer>Penn State University</producer>
+        <copyright>copyright statement</copyright>
+        <prodDate>2014</prodDate>
+        <prodPlace>University Park, PA</prodPlace>
+        <fundAg abbr="NSF">National Science Foundation</fundAg>
+        <grantNo agency="National Science Foundation">BCS-1147440</grantNo>
+      </prodStmt>
+      <biblCit>Gilmore, R.O. (2014). An analysis of optic flow observed by infants during natural activities. <i>Databrary</i>.</biblCit>
+    </citation>
+    <docSrc></docSrc>
+  </docDscr>
+  <stdyDscr>
+    <!-- stdyDscr describes the data collection, study, or compilation described by the DDI document -->
+    <citation>
+      <titlStmt>
+        <!-- maps to citation/title in the Databrary 1.0 spec -->
+        <title>An analysis of optic flow observed by infants during natural activities</title>
+        <IDNo agency="doi">10.1167/14.10.226</IDNo>
+      </titlStmt>
+      <biblCit>Raudies, F., &amp; Gilmore, R. (2014). An analysis of optic flow observed by infants during natural activities. <i>Journal of Vision</i>, 14(10), 226–226.</biblCit>
+    </citation>
+    <stdyInfo>
+      <abstract>Global pattern of optic flow can distinguish between different types of self-motion, such as rotation versus translation and forward/backward translation from up/down or side-to-side translation. The circumstances in which human observers produce different types of eye, head, and body motions differ across the life span, in part due to changes in locomotor abilities and declines in the frequency of passive locomotion. Scene geometry and body posture and position also contribute to the statistics of optic flow. Previous research has shown that 9.5 month-old infants undergoing passive locomotion -- carried by their parents in a forward facing carrier -- view different patterns and speeds of retinal- and head-centered optic flow (Raudies et al., 2012). Here we assess the patterns and speeds of head-centered optic flow experienced by infants across a wider range of ages, postures, and geometries. The data come from videos recorded from infant and adult observers who wore head-mounted cameras while they performed simple natural activities -- walking, sitting, playing with toys, and interacting with caregivers. We estimated optic flow from short (~30 sec) long segments using the method of Brox et al. (2004). From the flow estimates, we characterized the relative frequency of global rotation (yaw, pitch, and roll) and translation (forward/backward, up/down, and side to side) patterns and overall speeds. We found that infants who are not moving passively view translational flow patterns significantly more often than infant/mother dyads in paired locomotion. Further, infants who are not coupled to an adult in locomotion view a broader, wider, and slower distribution of flow speeds. Thus, the statistics of optic flow differ depending on the type (active vs. passive) self-motion. This implies that the relative frequency of experienced flow patterns and speeds may change substantially across development. Computer vision-based techniques permit a detailed analysis of the statistics of the natural visual environment during development.</abstract>
+      <keyword>optic flow</keyword>
+      <keyword>infants</keyword>
+      <keyword>adult</keyword>
+      <keyword>locomotion</keyword>
+    <stdyInfo>
+  </stdyDscr>
+  <fileDscr>
+    <!-- Information about the data file(s) that comprises a collection. -->
+    <!-- This section can be repeated for collections with multiple files. -->
+  </fileDscr>
+  <dataDscr>
+    <!-- Description of variables. -->
+  </dataDscr>
+</codeBook>
